@@ -2,6 +2,12 @@ html {
   background-color: rgb(10, 10, 73);
 }
 
+#greeting {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 img {
   border: 5px solid white;
 }
