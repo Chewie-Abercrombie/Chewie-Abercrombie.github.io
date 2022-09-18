@@ -3,9 +3,9 @@ html {
 }
 
 #greeting {
-  display: flex;
-  justify-content: center;
+  display: inline-block;
   text-align: center;
+  width: 100%;
 }
 
 img {
